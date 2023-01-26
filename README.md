@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladimircicovic
 - 👀 I’m interested in security, linux & devops
-- 🌱 I’m currently learning security
+- 🌱 I’m currently learning security, assembler, C++ 
 - 💞️ I’m looking to collaborate on space travels
 - 📫 How to reach me: telepathic
 

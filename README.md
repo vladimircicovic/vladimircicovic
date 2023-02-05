@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning security, assembler, C++ 
 - 💞️ I’m looking to collaborate on space travels
 - 📫 How to reach me: telepathic
+
+
 https://www.vladimircicovic.com/ 
 <!---
 vladimircicovic/vladimircicovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

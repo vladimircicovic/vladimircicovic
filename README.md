@@ -5,7 +5,10 @@
 - 📫 How to reach me: telepathic
 
 
-https://www.vladimircicovic.com/ 
+DevOps: https://www.vladimircicovic.com/ 
+
+RedTeaming: https://www.teamred.se/
+
 
 
 If you like my work please donate:

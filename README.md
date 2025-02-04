@@ -12,6 +12,7 @@ RedTeaming: https://www.teamred.se/
 
 
 If you like my work please donate:
+Buymeacoffee https://buymeacoffee.com/vladimircicovic
 
 BTC  1DrXQTeax1ZwgR5J3EGwV5vCMGAdnis8DH
 

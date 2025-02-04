@@ -15,10 +15,9 @@ If you like my work please donate:
 
 Buymeacoffee https://buymeacoffee.com/vladimircicovic
 
-BTC  1DrXQTeax1ZwgR5J3EGwV5vCMGAdnis8DH
+BTC  bc1qy73cmvz8y67hye4zactdmcawkvdtz6a0qsyupe
 
-ETH 0x9ce97ef21dabee09374547cb31ea04e858a33d06
-
+Trustee Plus: my anonymous ID mj4tt5lx62 -> https://t.ki/share 
 <!---
 vladimircicovic/vladimircicovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

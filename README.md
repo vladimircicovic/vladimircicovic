@@ -7,10 +7,6 @@
 
 DevOps: https://www.vladimircicovic.com/ 
 
-RedTeaming: https://www.teamred.se/
-
-
-
 If you like my work please donate:
 
 Buymeacoffee https://buymeacoffee.com/vladimircicovic
